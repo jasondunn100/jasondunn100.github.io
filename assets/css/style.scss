@@ -13,12 +13,12 @@ a {
 
 /* 2. Layout & Spacing */
 header, footer {
-  display: none; 
+  display: none; /* Hides sidebar and theme credits */
 }
 
 .wrapper {
   background-color: transparent;
-  max-width: 950px; /* Bumping to 950px to give your side-by-side bio more room */
+  max-width: 950px; 
   margin: 0 auto;
 }
 
@@ -29,17 +29,17 @@ section {
 
 /* 3. Headers */
 h3 {
-  margin-top: 60px !important;
-  padding-top: 20px;
-  border-bottom: 1px solid rgba(74, 20, 140, 0.1); /* Subtle purple line under headers */
-  padding-bottom: 10px;
+  margin-top: 50px !important;
+  padding-top: 10px;
+  border-bottom: 1px solid rgba(74, 20, 140, 0.1); 
+  padding-bottom: 8px;
 }
 
 /* 4. Styled Paper Buttons */
 .paper-btn {
   display: inline-block;
-  padding: 6px 12px;
-  margin: 5px 5px 5px 0;
+  padding: 4px 10px; /* Slimmer padding for a sleeker look */
+  margin: 5px 5px 0 0; /* Zero bottom margin to keep abstract close */
   background-color: #4A148C;
   color: white !important;
   text-decoration: none !important;
@@ -54,20 +54,39 @@ h3 {
   color: white !important;
 }
 
-/* 5. Research List Alignment Fixes */
+/* 5. Research List & Alignment */
 section ul {
-  margin-left: 20px; /* Restores the indentation for the whole list */
+  margin-left: 20px; /* Ensures indentation from the left edge */
 }
 
 section ul li {
-  margin-bottom: 50px; /* Big gap between different papers */
-  list-style-type: disc; /* Keeps the bullet point, or change to 'none' if you prefer */
+  margin-bottom: 45px; /* Space between different paper entries */
+  list-style-type: disc;
 }
 
-/* Make paper titles large but keep them inline with the bullet */
+/* Tighter Paper Titles */
 section ul li > strong:first-child, 
 section ul li > b:first-child {
   font-size: 1.3em;
+  line-height: 1.1; /* Pulls the status line up closer to the title */
+  display: inline; 
+}
+
+/* Ensure the Abstract dropdown is snug */
+details {
+  margin-top: 0px; 
+}
+
+summary {
+  outline: none;
+  cursor: pointer;
   line-height: 1.2;
-  display: inline; /* Changed from 'block' to keep it next to the bullet */
+}
+
+/* Abstract text styling */
+details div {
+  margin-top: 5px;
+  font-style: italic;
+  font-size: 0.95em;
+  color: #444;
 }
