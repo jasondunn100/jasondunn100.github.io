@@ -16,7 +16,7 @@ Hello, and welcome to my website! I am a PhD candidate at the <a href="[[https:/
   </div>
 </div>
 
-<div style="height: 50px;"></div> # break
+<div style="height: 50px;"></div>
 
 ### Working Papers
 * **Ghost Towns and Big Cities: Historical Mining Districts and Economic Activity in the American West** (R&R at JEH)
