@@ -23,7 +23,7 @@ Hello, and welcome to my website! I am a PhD candidate at the <a href="[[https:/
  (Conditionally Accepted at _Journal of Economic History_) <br>
   <a href="assets/mining.pdf" class="paper-btn">Paper</a>
   <a href="assets/mining_appendix.pdf" class="paper-btn">Online Appendix</a>
-  <details>
+<details style="margin-top: -10px;">
     <summary style="cursor: pointer; color: #4A148C; font-weight: bold;">
       Abstract
     </summary>
@@ -35,7 +35,7 @@ Hello, and welcome to my website! I am a PhD candidate at the <a href="[[https:/
   (Revise & Resubmit at _American Economic Review_) <br>
   <a href="assets/shipping.pdf" class="paper-btn">Paper</a>
   <a href="assets/shipping_appendix.pdf" class="paper-btn">Online Appendix</a>
-  <details>
+<details style="margin-top: -10px;">
     <summary style="cursor: pointer; color: #4A148C; font-weight: bold;">
       Abstract
     </summary>
