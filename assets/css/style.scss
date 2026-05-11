@@ -2,21 +2,24 @@
 ---
 @import "{{ site.theme }}";
 
-/* Set the overall background to light lavender */
+/* 1. Global Styles & Colors */
 body {
-  background-color: #E6E6FA; /* This is the hex code for Lavender */
+  background-color: #E6E6FA; /* Light Lavender */
 }
 
-/* Ensure the content area also matches or is transparent */
+a {
+  color: #4A148C; /* Deep purple for links */
+}
+
+/* 2. Layout & Spacing */
+header, footer {
+  display: none; /* Hides sidebar and theme credits */
+}
+
 .wrapper {
   background-color: transparent;
-  max-width: 800px;
+  max-width: 900px; /* Increased slightly for better side-by-side bio look */
   margin: 0 auto;
-}
-
-/* Keep the sidebar hidden and content wide as we did before */
-header {
-  display: none;
 }
 
 section {
@@ -24,12 +27,18 @@ section {
   float: none !important;
 }
 
-/* Styled Paper Buttons */
+/* 3. Research Section Styling */
+h3 {
+  margin-top: 60px !important;
+  padding-top: 20px;
+}
+
+/* 4. Styled Paper Buttons */
 .paper-btn {
   display: inline-block;
   padding: 6px 12px;
   margin: 10px 5px 10px 0;
-  background-color: #4A148C; /* Deep purple to match your links */
+  background-color: #4A148C;
   color: white !important;
   text-decoration: none !important;
   border-radius: 4px;
@@ -39,10 +48,6 @@ section {
 }
 
 .paper-btn:hover {
-  background-color: #6A1B9A; /* Slightly lighter purple on hover */
+  background-color: #6A1B9A;
   color: white !important;
-}
-
-.paper-btn i {
-  margin-right: 5px;
 }
