@@ -24,7 +24,7 @@ Hello, and welcome to my website! I am a PhD candidate at the <a href="[[https:/
   <div style="margin-top: 5px;">
     <a href="assets/mining.pdf" class="paper-btn">Paper</a>
     <a href="assets/mining_appendix.pdf" class="paper-btn">Online Appendix</a>
-    <details style="margin-top: 0px;">
+    <details style="margin-top: 2px;">
       <summary style="cursor: pointer; color: #4A148C; font-weight: bold;">
         Abstract
       </summary>
@@ -38,7 +38,7 @@ Hello, and welcome to my website! I am a PhD candidate at the <a href="[[https:/
   <div style="margin-top: 5px;">
     <a href="assets/shipping.pdf" class="paper-btn">Paper</a>
     <a href="assets/shipping_appendix.pdf" class="paper-btn">Online Appendix</a>
-    <details style="margin-top: 0px;">
+    <details style="margin-top: 2px;">
       <summary style="cursor: pointer; color: #4A148C; font-weight: bold;">
         Abstract
       </summary>
