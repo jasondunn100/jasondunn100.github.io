@@ -13,12 +13,12 @@ a {
 
 /* 2. Layout & Spacing */
 header, footer {
-  display: none; /* Hides sidebar and theme credits */
+  display: none; 
 }
 
 .wrapper {
   background-color: transparent;
-  max-width: 900px; /* Increased slightly for better side-by-side bio look */
+  max-width: 950px; /* Bumping to 950px to give your side-by-side bio more room */
   margin: 0 auto;
 }
 
@@ -27,17 +27,19 @@ section {
   float: none !important;
 }
 
-/* 3. Research Section Styling */
+/* 3. Headers */
 h3 {
   margin-top: 60px !important;
   padding-top: 20px;
+  border-bottom: 1px solid rgba(74, 20, 140, 0.1); /* Subtle purple line under headers */
+  padding-bottom: 10px;
 }
 
 /* 4. Styled Paper Buttons */
 .paper-btn {
   display: inline-block;
   padding: 6px 12px;
-  margin: 10px 5px 10px 0;
+  margin: 5px 5px 5px 0;
   background-color: #4A148C;
   color: white !important;
   text-decoration: none !important;
@@ -52,22 +54,20 @@ h3 {
   color: white !important;
 }
 
-/* Add a gap between papers in a list */
+/* 5. Research List Alignment Fixes */
+section ul {
+  margin-left: 20px; /* Restores the indentation for the whole list */
+}
+
 section ul li {
-  margin-bottom: 15px; /* Adjust this number to increase/decrease the gap */
-  list-style-type: none; /* Optional: removes the bullet point for a cleaner look */
+  margin-bottom: 50px; /* Big gap between different papers */
+  list-style-type: disc; /* Keeps the bullet point, or change to 'none' if you prefer */
 }
 
-/* Ensure the abstract details don't push too far down */
-details {
-  margin-top: 10px;
-}
-
-/* Make all bold text in the research list larger */
-section ul li > b, 
-section ul li > strong {
-  display: block;
+/* Make paper titles large but keep them inline with the bullet */
+section ul li > strong:first-child, 
+section ul li > b:first-child {
   font-size: 1.3em;
   line-height: 1.2;
-  margin-bottom: 5px;
+  display: inline; /* Changed from 'block' to keep it next to the bullet */
 }
