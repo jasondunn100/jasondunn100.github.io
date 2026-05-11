@@ -90,3 +90,13 @@ details div {
   font-size: 0.95em;
   color: #444;
 }
+
+/* Tighten spacing for the Links section */
+.compact-links ul li {
+  margin-bottom: 5px !important; /* Forces a much smaller gap */
+}
+
+.compact-links ul {
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
