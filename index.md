@@ -20,7 +20,7 @@ Hello, and welcome to my website! I am a PhD candidate at the <a href="https://w
 
 ### Working Papers
 
-* **Ghost Towns and Big Cities: Historical Mining Districts and Economic Activity in the American West** with <a href="https://jamessiodla.com/">James Siodla</a><br>(Conditionally Accepted at _Journal of Economic History_)
+* **Ghost Towns and Big Cities: Historical Mining Districts and Economic Activity in the American West** with <a href="https://jamessiodla.com/">James Siodla</a><br>(Conditionally Accepted at the _Journal of Economic History_)
   <div style="margin-top: 5px;">
     <a href="assets/mining.pdf" class="paper-btn">Paper</a>
     <a href="assets/mining_appendix.pdf" class="paper-btn">Online Appendix</a>
@@ -34,7 +34,7 @@ Hello, and welcome to my website! I am a PhD candidate at the <a href="https://w
     </details>
   </div>
 
-* **Navigating the Waves of Global Shipping: Drivers and Aggregate Implications** <br>with <a href="https://www.fernandoleibovici.com/">Fernando Leibovici</a><br>(Revise & Resubmit at _American Economic Review_)
+* **Navigating the Waves of Global Shipping: Drivers and Aggregate Implications** <br>with <a href="https://www.fernandoleibovici.com/">Fernando Leibovici</a><br>(Revise & Resubmit at the _American Economic Review_)
   <div style="margin-top: 5px;">
     <a href="assets/shipping.pdf" class="paper-btn">Paper</a>
     <a href="assets/shipping_appendix.pdf" class="paper-btn">Online Appendix</a>
