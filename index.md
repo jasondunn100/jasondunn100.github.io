@@ -10,9 +10,9 @@ title: Jason Dunn
   <img src="assets/img/prof_pic.jpg" style="width: 200px; border-radius: 8px;">
   
   <div style="font-size: 1.2em; line-height: 1.5;">
-  Hello, and welcome to my website! I am a PhD candidate at the Boston University Department of Economics. My research specializes mainly in economic history, labor, migration, and education. I formerly worked as a research associate at the [St. Louis Federal Reserve](https://www.stlouisfed.org/research). 
-  
-  My research with Fernando Leibovici on international shipping and trade has been featured on the [Wall Street Journal](https://www.wsj.com/articles/new-studies-find-unprecedented-impact-from-supply-chain-turmoil-11641587220), [Barron’s](https://www.barrons.com/articles/baltimore-key-bridge-collapse-us-economy-3f39bccc), and [The Economist](https://www.economist.com/business/2024/12/03/how-painful-will-trumps-tariffs-be-for-american-businesses).    
+Hello, and welcome to my website! I am a PhD candidate at the <a href="[[https://www.stlouisfed.org/research](https://www.bu.edu/econ/)](https://www.bu.edu/econ/)">Boston University Department of Economics</a>. My research specializes mainly in economic history, labor, migration, and education. 
+    <br><br>
+    I formerly worked as a research associate at the <a href="https://www.stlouisfed.org/research">St. Louis Federal Reserve</a>. My research with Fernando Leibovici on international shipping and trade has been featured on the <a href="https://www.wsj.com/articles/new-studies-find-unprecedented-impact-from-supply-chain-turmoil-11641587220">Wall Street Journal</a>, <a href="https://www.barrons.com/articles/baltimore-key-bridge-collapse-us-economy-3f39bccc">Barron’s</a>, and <a href="https://www.economist.com/business/2024/12/03/how-painful-will-trumps-tariffs-be-for-american-businesses">The Economist</a>.
   </div>
 </div>
 
