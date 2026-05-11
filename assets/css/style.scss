@@ -62,3 +62,12 @@ section ul li {
 details {
   margin-top: 10px;
 }
+
+/* Make all bold text in the research list larger */
+section ul li > b, 
+section ul li > strong {
+  display: block;
+  font-size: 1.3em;
+  line-height: 1.2;
+  margin-bottom: 5px;
+}
