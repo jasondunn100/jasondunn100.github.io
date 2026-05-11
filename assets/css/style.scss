@@ -38,8 +38,8 @@ h3 {
 /* 4. Styled Paper Buttons */
 .paper-btn {
   display: inline-block;
-  padding: 4px 10px; /* Slimmer padding for a sleeker look */
-  margin: 5px 5px 0 0; /* Zero bottom margin to keep abstract close */
+  padding: 4px 10px;
+  margin: 5px 5px 0 0;
   background-color: #4A148C;
   color: white !important;
   text-decoration: none !important;
@@ -56,11 +56,11 @@ h3 {
 
 /* 5. Research List & Alignment */
 section ul {
-  margin-left: 20px; /* Ensures indentation from the left edge */
+  margin-left: 20px;
 }
 
 section ul li {
-  margin-bottom: 45px; /* Space between different paper entries */
+  margin-bottom: 45px; /* Large gap for Working Papers */
   list-style-type: disc;
 }
 
@@ -68,11 +68,11 @@ section ul li {
 section ul li > strong:first-child, 
 section ul li > b:first-child {
   font-size: 1.3em;
-  line-height: 1.1; /* Pulls the status line up closer to the title */
+  line-height: 1.1;
   display: inline; 
 }
 
-/* Ensure the Abstract dropdown is snug */
+/* 6. Abstract Spacing */
 details {
   margin-top: 0px; 
 }
@@ -83,7 +83,6 @@ summary {
   line-height: 1.2;
 }
 
-/* Abstract text styling */
 details div {
   margin-top: 5px;
   font-style: italic;
@@ -91,12 +90,8 @@ details div {
   color: #444;
 }
 
-/* Tighten spacing for the Links section */
-.compact-links ul li {
-  margin-bottom: 5px !important; /* Forces a much smaller gap */
-}
-
-.compact-links ul {
-  margin-top: 10px;
-  margin-bottom: 20px;
+/* 7. Tightening the Links Section specifically */
+/* This targets the very last list on your page */
+section ul:last-of-type li {
+  margin-bottom: 5px !important;
 }
