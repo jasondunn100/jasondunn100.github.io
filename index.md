@@ -16,7 +16,7 @@ Hello, and welcome to my website! I am a PhD candidate at the <a href="[[https:/
   </div>
 </div>
 
-<div style="height: 10px;"></div>
+<div style="height: 0px;"></div>
 
 ### Working Papers
 
