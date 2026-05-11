@@ -51,3 +51,14 @@ h3 {
   background-color: #6A1B9A;
   color: white !important;
 }
+
+/* Add a gap between papers in a list */
+section ul li {
+  margin-bottom: 40px; /* Adjust this number to increase/decrease the gap */
+  list-style-type: none; /* Optional: removes the bullet point for a cleaner look */
+}
+
+/* Ensure the abstract details don't push too far down */
+details {
+  margin-top: 10px;
+}
