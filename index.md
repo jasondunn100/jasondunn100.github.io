@@ -19,30 +19,36 @@ Hello, and welcome to my website! I am a PhD candidate at the <a href="[[https:/
 <div style="height: 10px;"></div>
 
 ### Working Papers
-* **Ghost Towns and Big Cities: Historical Mining Districts and Economic Activity in the American West**
- (Conditionally Accepted at _Journal of Economic History_) <br>
-  <a href="assets/mining.pdf" class="paper-btn">Paper</a>
-  <a href="assets/mining_appendix.pdf" class="paper-btn">Online Appendix</a>
-<details style="margin-top: -10px;">
-    <summary style="cursor: pointer; color: #4A148C; font-weight: bold;">
-      Abstract
-    </summary>
-    <div style="margin-top: 10px; font-style: italic; font-size: 0.95em;">
-      This paper identifies the impact of gold and silver mining discoveries in the American West on the origins and death rates of western towns and the region's long-run population distribution. Between 1850 and 1940, the discovery of mining sites increased the likelihood that a town formed nearby relative to other locations. Many of these towns eventually died, however, due largely to their relatively poor geography. Nevertheless, locations near mining sites exhibit conditional persistence: they are denser today than surrounding areas, but only when accounting for geographic confounders. Our findings suggest that historical mining activity influenced the locations of cities and towns in the American West and geography helped determine their long-run prospects for survival.
-    </div>
-  </details>
-* **Navigating the Waves of Global Shipping: Drivers and Aggregate Implications**
-  (Revise & Resubmit at _American Economic Review_) <br>
-  <a href="assets/shipping.pdf" class="paper-btn">Paper</a>
-  <a href="assets/shipping_appendix.pdf" class="paper-btn">Online Appendix</a>
-<details style="margin-top: -10px;">
-    <summary style="cursor: pointer; color: #4A148C; font-weight: bold;">
-      Abstract
-    </summary>
-    <div style="margin-top: 10px; font-style: italic; font-size: 0.95em;">
-      This paper studies the drivers of global shipping dynamics and their aggregate implications. We document novel evidence on the dynamics of global shipping supply, demand, and costs. Motivated by this evidence, we set up a dynamic model of international trade with a global shipping market where shipping firms and importers endogenously determine shipping supply and costs. We find the model accounts for the dynamics of global shipping observed at business cycle frequencies and in the aftermath of COVID-19. Accounting for global shipping significantly affects the dynamics of aggregate economic activity.
-    </div>
-  </details>
+
+* **Ghost Towns and Big Cities: Historical Mining Districts and Economic Activity in the American West**  
+  (Conditionally Accepted at _Journal of Economic History_)
+  <div style="margin-top: 8px;">
+    <a href="assets/mining.pdf" class="paper-btn">Paper</a>
+    <a href="assets/mining_appendix.pdf" class="paper-btn">Online Appendix</a>
+    <details style="margin-top: 5px;">
+      <summary style="cursor: pointer; color: #4A148C; font-weight: bold;">
+        Abstract ▾
+      </summary>
+      <div style="margin-top: 10px; font-style: italic; font-size: 0.95em;">
+        This paper identifies the impact of gold and silver mining discoveries in the American West on the origins and death rates of western towns and the region's long-run population distribution. Between 1850 and 1940, the discovery of mining sites increased the likelihood that a town formed nearby relative to other locations. Many of these towns eventually died, however, due largely to their relatively poor geography. Nevertheless, locations near mining sites exhibit conditional persistence: they are denser today than surrounding areas, but only when accounting for geographic confounders. Our findings suggest that historical mining activity influenced the locations of cities and towns in the American West and geography helped determine their long-run prospects for survival.
+      </div>
+    </details>
+  </div>
+
+* **Navigating the Waves of Global Shipping: Drivers and Aggregate Implications**  
+  (Revise & Resubmit at _American Economic Review_)
+  <div style="margin-top: 8px;">
+    <a href="assets/shipping.pdf" class="paper-btn">Paper</a>
+    <a href="assets/shipping_appendix.pdf" class="paper-btn">Online Appendix</a>
+    <details style="margin-top: 5px;">
+      <summary style="cursor: pointer; color: #4A148C; font-weight: bold;">
+        Abstract ▾
+      </summary>
+      <div style="margin-top: 10px; font-style: italic; font-size: 0.95em;">
+        This paper studies the drivers of global shipping dynamics and their aggregate implications. We document novel evidence on the dynamics of global shipping supply, demand, and costs. Motivated by this evidence, we set up a dynamic model of international trade with a global shipping market where shipping firms and importers endogenously determine shipping supply and costs. We find the model accounts for the dynamics of global shipping observed at business cycle frequencies and in the aftermath of COVID-19. Accounting for global shipping significantly affects the dynamics of aggregate economic activity.
+      </div>
+    </details>
+  </div>
   
 ### Links
 * [Curriculum Vitae](assets/dunn_cv.pdf)
