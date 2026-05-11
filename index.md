@@ -20,8 +20,7 @@ Hello, and welcome to my website! I am a PhD candidate at the <a href="[[https:/
 
 ### Working Papers
 * **Ghost Towns and Big Cities: Historical Mining Districts and Economic Activity in the American West** (R&R at JEH)
-  <a href="assets/mining.pdf" class="paper-btn">PDF</a>
-  <a href="https://github.com/jasondunn100/mining-districts" class="paper-btn">Code/Data</a>
+  <a href="assets/mining.pdf" class="paper-btn">Paper</a>
   <details>
     <summary style="cursor: pointer; color: #4A148C; font-weight: bold;">
       Abstract ▾
@@ -31,8 +30,7 @@ Hello, and welcome to my website! I am a PhD candidate at the <a href="[[https:/
     </div>
   </details>
 * **Navigating the Waves of Global Shipping: Drivers and Aggregate Implications** (R&R at AER)
-  <a href="assets/shipping.pdf" class="paper-btn">PDF</a>
-  <a href="https://github.com/jasondunn100/shipping-macro" class="paper-btn">Code/Data</a>
+  <a href="assets/shipping.pdf" class="paper-btn">Paper</a>
   <details>
     <summary style="cursor: pointer; color: #4A148C; font-weight: bold;">
       Abstract ▾
