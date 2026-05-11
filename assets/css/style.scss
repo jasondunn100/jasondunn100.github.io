@@ -23,3 +23,26 @@ section {
   width: 100% !important;
   float: none !important;
 }
+
+/* Styled Paper Buttons */
+.paper-btn {
+  display: inline-block;
+  padding: 6px 12px;
+  margin: 10px 5px 10px 0;
+  background-color: #4A148C; /* Deep purple to match your links */
+  color: white !important;
+  text-decoration: none !important;
+  border-radius: 4px;
+  font-size: 0.85em;
+  font-weight: bold;
+  transition: background-color 0.2s;
+}
+
+.paper-btn:hover {
+  background-color: #6A1B9A; /* Slightly lighter purple on hover */
+  color: white !important;
+}
+
+.paper-btn i {
+  margin-right: 5px;
+}
