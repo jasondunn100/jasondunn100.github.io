@@ -41,4 +41,6 @@ title: Research | Jason Dunn
 
 * **Shipping Disruptions in the Red Sea: Ripples Across the Globe** with Fernando Leibovici<br>_On the Economy Blog_, February 2024 <span style="display: inline-block; margin-left: 10px; vertical-align: middle;"><a href="https://www.stlouisfed.org/on-the-economy/2024/feb/shipping-disruptions-red-sea-ripples-globe" target="_blank" rel="noopener noreferrer" class="paper-btn" style="margin-top: 0;">Source</a><a href="assets/ote_redsea.pdf" target="_blank" rel="noopener noreferrer" class="paper-btn" style="margin-top: 0; margin-left: 5px;"><i class="fa-regular fa-file-pdf"></i> PDF</a></span>
 
+<!--
 * **Title** with Coauthor<br>_Publication_, Month Year <span style="display: inline-block; margin-left: 10px; vertical-align: middle;"><a href="link" target="_blank" rel="noopener noreferrer" class="paper-btn" style="margin-top: 0;">Source</a><a href="YOUR_PDF_LINK_HERE" target="_blank" rel="noopener noreferrer" class="paper-btn" style="margin-top: 0; margin-left: 5px;"><i class="fa-regular fa-file-pdf"></i> PDF</a></span>
+-->
