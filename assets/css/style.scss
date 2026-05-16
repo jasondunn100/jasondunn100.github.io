@@ -4,8 +4,8 @@
 
 /* 1. Global Styles & Colors */
 html, body {
-  margin: 0.5 !important;
-  padding: 6 !important;
+  margin: 0 !important;
+  padding: 0 !important;
   background-color: #E6E6FA; /* Light Lavender */
 }
 
@@ -22,7 +22,7 @@ header, footer {
   background-color: transparent;
   max-width: 950px; 
   margin: 0 auto;
-  padding-top: 0px !important; /* Forces layout content tightly up against the nav bar */
+  padding-top: 0px !important; /* Forces layout content tightly up against the nav bar area */
 }
 
 section {
@@ -126,20 +126,19 @@ details div {
 /* 8. Top Navigation Banner */
 .top-nav {
   background-color: #4A148C; /* Deep purple banner background */
-  width: 100%;
-  padding-top: 4px !important;   /* Shaves off the top internal buffer */
-  padding-bottom: 10px;          /* Preserves balanced alignment underneath links */
-  margin-top: 2px !important;    /* Locks banner edge tightly to the screen ceiling */
-  margin-bottom: 15px;           /* Distance between banner and main content text */
-  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  max-width: 990px;          /* Capped at 40px wider than your 950px body text */
+  margin: 12px auto 25px auto; /* 12px gap at absolute top, centers bar, 25px room below */
+  padding: 10px 0;
+  border-radius: 6px;        /* Softens corners since it floats contained */
+  box-shadow: 0 2px 5px rgba(0,0,0,0.08);
 }
 
 .nav-container {
-  max-width: 950px; /* Matches your wrapper width exactly for line alignment */
+  max-width: 950px;          /* Aligns links precisely with your main text alignment grid */
   margin: 0 auto;
   display: flex;
   gap: 30px;
-  padding: 0 20px;
+  padding: 0 20px;           /* Inward padding to space the links neatly within the purple box */
 }
 
 .nav-link {
