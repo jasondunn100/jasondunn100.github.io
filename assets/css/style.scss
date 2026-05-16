@@ -74,7 +74,7 @@ section ul li > b:first-child {
 
 /* 6. Abstract Spacing */
 details {
-  margin-top: 0px; 
+  margin-top: 8px !important; /* Kept the slight extra breathing room below buttons */
 }
 
 summary {
@@ -90,8 +90,27 @@ details div {
   color: #444;
 }
 
-/* 7. Tightening the Links Section specifically */
-/* This targets the very last list on your page */
-section ul:last-of-type li {
-  margin-bottom: 5px !important;
+/* 7. Horizontal Square Icon Buttons under Profile Pic */
+.social-icon-btn {
+  flex: 1; /* Forces all 6 buttons to scale evenly across the 200px column */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 32px; /* Proportional square sizing for a 6-button layout */
+  background-color: #f3f0f9; /* Light lavender accent */
+  color: #4A148C !important;
+  text-decoration: none !important;
+  border-radius: 4px;
+  border: 1px solid rgba(74, 20, 140, 0.15);
+  transition: all 0.2s ease;
+}
+
+.social-icon-btn i {
+  font-size: 1.05em; 
+}
+
+.social-icon-btn:hover {
+  background-color: #4A148C; /* Solid purple fill on hover */
+  color: white !important;
+  border-color: #4A148C;
 }
