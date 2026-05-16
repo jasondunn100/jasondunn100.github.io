@@ -114,3 +114,32 @@ details div {
   color: white !important;
   border-color: #4A148C;
 }
+
+/* 8. Top Navigation Banner */
+.top-nav {
+  background-color: #4A148C; /* Deep purple banner background */
+  width: 100%;
+  padding: 12px 0;
+  margin-bottom: 30px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.nav-container {
+  max-width: 950px; /* Matches your wrapper width exactly for line alignment */
+  margin: 0 auto;
+  display: flex;
+  gap: 30px;
+  padding: 0 20px;
+}
+
+.nav-link {
+  color: #E6E6FA !important; /* Light lavender text */
+  text-decoration: none !important;
+  font-weight: bold;
+  font-size: 1.05em;
+  transition: color 0.2s ease;
+}
+
+.nav-link:hover {
+  color: #FFFFFF !important; /* Shines white on hover */
+}
