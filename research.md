@@ -3,7 +3,7 @@ layout: page
 title: Research | Jason Dunn
 ---
 
-# Research
+# Research | Jason Dunn
 
 ### Working Papers
 
