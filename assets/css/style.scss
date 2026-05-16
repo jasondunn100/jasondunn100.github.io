@@ -5,7 +5,7 @@
 /* 1. Global Styles & Colors */
 html, body {
   margin: 0.5 !important;
-  padding: 3 !important;
+  padding: 6 !important;
   background-color: #E6E6FA; /* Light Lavender */
 }
 
@@ -129,7 +129,7 @@ details div {
   width: 100%;
   padding-top: 4px !important;   /* Shaves off the top internal buffer */
   padding-bottom: 10px;          /* Preserves balanced alignment underneath links */
-  margin-top: 0px !important;    /* Locks banner edge tightly to the screen ceiling */
+  margin-top: 2px !important;    /* Locks banner edge tightly to the screen ceiling */
   margin-bottom: 15px;           /* Distance between banner and main content text */
   box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
