@@ -3,7 +3,7 @@ layout: page
 title: CV | Jason Dunn
 ---
 
-# Curriculum Vitae
+# Curriculum Vitae | Jason Dunn
 
 <div style="margin-bottom: 15px;">
   <a href="assets/dunn_cv.pdf" target="_blank" class="paper-btn" style="padding: 8px 16px;">
