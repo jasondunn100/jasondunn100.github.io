@@ -18,19 +18,19 @@ title: Jason Dunn
       <a href="mailto:jtdunn@bu.edu" class="social-icon-btn" title="Email">
         <i class="fa-regular fa-envelope"></i>
       </a>
-      <a href="assets/dunn_cv.pdf" class="social-icon-btn" title="Curriculum Vitae">
+      <a href="assets/dunn_cv.pdf" target="_blank" class="social-icon-btn" title="Curriculum Vitae">
         <span style="font-weight: bold; font-size: 0.85em; font-family: sans-serif;">CV</span>
       </a>
-      <a href="https://scholar.google.com/citations?user=mKzc0Q4AAAAJ" class="social-icon-btn" title="Google Scholar">
+      <a href="https://scholar.google.com/citations?user=mKzc0Q4AAAAJ" target="_blank" rel="noopener noreferrer" class="social-icon-btn" title="Google Scholar">
         <i class="fa-solid fa-graduation-cap"></i>
       </a>
-      <a href="https://github.com/jasondunn100" class="social-icon-btn" title="GitHub">
+      <a href="https://github.com/jasondunn100" target="_blank" rel="noopener noreferrer" class="social-icon-btn" title="GitHub">
         <i class="fa-brands fa-github"></i>
       </a>
-      <a href="https://www.linkedin.com/in/jasondunn99/" class="social-icon-btn" title="LinkedIn">
+      <a href="https://www.linkedin.com/in/jasondunn99/" target="_blank" rel="noopener noreferrer" class="social-icon-btn" title="LinkedIn">
         <i class="fa-brands fa-linkedin-in"></i>
       </a>
-      <a href="https://x.com/JasonTDunnEcon" class="social-icon-btn" title="X (Twitter)">
+      <a href="https://x.com/JasonTDunnEcon" target="_blank" rel="noopener noreferrer" class="social-icon-btn" title="X (Twitter)">
         <i class="fa-brands fa-x-twitter"></i>
       </a>
     </div>
@@ -51,8 +51,8 @@ title: Jason Dunn
 
 * **Ghost Towns and Big Cities: Historical Mining Districts and Economic Activity in the American West** with <a href="https://jamessiodla.com/">James Siodla</a><br>(Conditionally Accepted at the _Journal of Economic History_)
   <div style="margin-top: 5px;">
-    <a href="assets/mining.pdf" class="paper-btn">Paper</a>
-    <a href="assets/mining_appendix.pdf" class="paper-btn">Online Appendix</a>
+    <a href="assets/mining.pdf" target="_blank" class="paper-btn">Paper</a>
+    <a href="assets/mining_appendix.pdf" target="_blank" class="paper-btn">Online Appendix</a>
     <details style="margin-top: 4px;">
       <summary style="cursor: pointer; color: #4A148C; font-weight: bold;">
         Abstract
@@ -65,8 +65,8 @@ title: Jason Dunn
 
 * **Navigating the Waves of Global Shipping: Drivers and Aggregate Implications** <br>with <a href="https://www.fernandoleibovici.com/">Fernando Leibovici</a><br>(Revise & Resubmit at the _American Economic Review_)
   <div style="margin-top: 5px;">
-    <a href="assets/shipping.pdf" class="paper-btn">Paper</a>
-    <a href="assets/shipping_appendix.pdf" class="paper-btn">Online Appendix</a>
+    <a href="assets/shipping.pdf" target="_blank" class="paper-btn">Paper</a>
+    <a href="assets/shipping_appendix.pdf" target="_blank" class="paper-btn">Online Appendix</a>
     <details style="margin-top: 4px;">
       <summary style="cursor: pointer; color: #4A148C; font-weight: bold;">
         Abstract
@@ -76,3 +76,18 @@ title: Jason Dunn
       </div>
     </details>
   </div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const links = document.querySelectorAll("a");
+    links.forEach(link => {
+      // Automatically opens external links and internal asset PDFs in a new tab
+      if (link.hostname !== window.location.hostname || link.href.includes('.pdf')) {
+        if (!link.href.startsWith('mailto:')) {
+          link.target = "_blank";
+          link.rel = "noopener noreferrer";
+        }
+      }
+    });
+  });
+</script>
