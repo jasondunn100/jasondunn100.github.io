@@ -47,7 +47,7 @@ title: Jason Dunn
 
 <div style="height: 0px;"></div>
 
-### Working Papers
+### Latest Work
 
 * **Ghost Towns and Big Cities: Historical Mining Districts and Economic Activity in the American West** with <a href="https://jamessiodla.com/">James Siodla</a><br>(Conditionally Accepted at the _Journal of Economic History_)
   <div style="margin-top: 5px;">
