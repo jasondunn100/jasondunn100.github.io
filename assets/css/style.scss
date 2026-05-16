@@ -3,9 +3,10 @@
 @import "{{ site.theme }}";
 
 /* 1. Global Styles & Colors */
-body {
+html, body {
+  margin: 0 !important;
+  padding: 0 !important;
   background-color: #E6E6FA; /* Light Lavender */
-  margin: 0; /* Removes gaps at the very top of the screen */
 }
 
 a {
@@ -126,9 +127,10 @@ details div {
 .top-nav {
   background-color: #4A148C; /* Deep purple banner background */
   width: 100%;
-  padding: 12px 0;
-  margin-top: 0; /* Ensures banner sits flush with top edge of screen */
-  margin-bottom: 15px; /* Reduced from 30px to pull the main layout closer */
+  padding-top: 4px !important;   /* Shaves off the top internal buffer */
+  padding-bottom: 10px;          /* Preserves balanced alignment underneath links */
+  margin-top: 0px !important;    /* Locks banner edge tightly to the screen ceiling */
+  margin-bottom: 15px;           /* Distance between banner and main content text */
   box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
 
