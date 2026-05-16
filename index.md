@@ -1,4 +1,5 @@
 ---
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
 layout: default
 title: Jason Dunn
 ---
@@ -6,14 +7,42 @@ title: Jason Dunn
 # Jason Dunn
 **PhD Candidate | Department of Economics, Boston University**
 
-<div style="display: flex; align-items: flex-start; gap: 25px;">
-  <img src="assets/img/prof_pic.jpg" style="width: 240px; border-radius: 8px;">
+<div style="display: flex; align-items: flex-start; gap: 30px;">
   
+  <!-- Left Column: Picture + Horizontal Social Row -->
+  <div style="width: 200px; flex-shrink: 0; display: flex; flex-direction: column; gap: 10px;">
+    <img src="assets/img/prof_pic.jpg" style="width: 100%; border-radius: 8px;">
+    
+    <!-- Row of 6 Square Icon Buttons -->
+    <div style="display: flex; justify-content: space-between; gap: 4px;">
+      <a href="mailto:jtdunn@bu.edu" class="social-icon-btn" title="Email">
+        <i class="fa-regular fa-envelope"></i>
+      </a>
+      <a href="assets/dunn_cv.pdf" class="social-icon-btn" title="Curriculum Vitae">
+        <i class="fa-regular fa-file-pdf"></i>
+      </a>
+      <a href="https://scholar.google.com/citations?user=mKzc0Q4AAAAJ" class="social-icon-btn" title="Google Scholar">
+        <i class="fa-solid fa-graduation-cap"></i>
+      </a>
+      <a href="https://github.com/jasondunn100" class="social-icon-btn" title="GitHub">
+        <i class="fa-brands fa-github"></i>
+      </a>
+      <a href="https://www.linkedin.com/in/jasondunn99/" class="social-icon-btn" title="LinkedIn">
+        <i class="fa-brands fa-linkedin-in"></i>
+      </a>
+      <a href="https://x.com/JasonTDunnEcon" class="social-icon-btn" title="X (Twitter)">
+        <i class="fa-brands fa-x-twitter"></i>
+      </a>
+    </div>
+  </div>
+  
+  <!-- Right Column: Bio Text -->
   <div style="font-size: 1.2em; line-height: 1.5;">
-Hello, and welcome to my website! I am a PhD candidate at the <a href="https://www.bu.edu/econ/">Boston University Department of Economics</a>. My research specializes mainly in economic history, labor, migration, and education. I am particularly interested in leveraging modern computational methods (e.g. LLMs, OCR, and GIS) to digitize large-scale historical records for economic analysis.
+  Hello, and welcome to my website! I am a PhD candidate at the <a href="https://www.bu.edu/econ/">Boston University Department of Economics</a>. My research specializes mainly in economic history, labor, migration, and education. I am particularly interested in leveraging modern computational methods (e.g. LLMs, OCR, and GIS) to digitize large-scale historical records for economic analysis.
     <br><br>
     I formerly worked as a research associate at the <a href="https://www.stlouisfed.org/research">St. Louis Federal Reserve</a>. My research with Fernando Leibovici on international shipping and trade has been featured on the <a href="https://www.wsj.com/articles/new-studies-find-unprecedented-impact-from-supply-chain-turmoil-11641587220">Wall Street Journal</a>, <a href="https://www.barrons.com/articles/baltimore-key-bridge-collapse-us-economy-3f39bccc">Barron’s</a>, and <a href="https://www.economist.com/business/2024/12/03/how-painful-will-trumps-tariffs-be-for-american-businesses">The Economist</a>.
   </div>
+
 </div>
 
 <div style="height: 0px;"></div>
@@ -47,8 +76,3 @@ Hello, and welcome to my website! I am a PhD candidate at the <a href="https://w
       </div>
     </details>
   </div>
-
-### Links
-* [Curriculum Vitae](assets/dunn_cv.pdf)
-* [Google Scholar](https://scholar.google.com/citations?user=mKzc0Q4AAAAJ)
-* [GitHub](https://github.com/jasondunn100)
