@@ -37,15 +37,7 @@ title: Research | Jason Dunn
 
 ### Federal Reserve Publications
 
-* **Title of Fed Publication/Economic Synopses Essay** with Co-authors<br>_Federal Reserve Bank of St. Louis Review / Economic Synopses_, Year
+* **Has US-China Decoupling Energized American Manufacturing?** with Fernando Leibovici<br>_FRED Blog_, March 2024
   <div style="margin-top: 5px;">
-    <a href="YOUR_LINK_HERE" target="_blank" class="paper-btn">Publication</a>
-    <details style="margin-top: 4px;">
-      <summary style="cursor: pointer; color: #4A148C; font-weight: bold;">
-        Abstract
-      </summary>
-      <div style="margin-top: 5px; font-style: italic; font-size: 0.95em;">
-        Paste abstract or short summary summary here...
-      </div>
-    </details>
+    <a href="https://fredblog.stlouisfed.org/2024/03/has-us-china-decoupling-energized-american-manufacturing/" target="_blank" class="paper-btn">Source</a>
   </div>
