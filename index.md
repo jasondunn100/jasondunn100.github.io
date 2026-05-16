@@ -19,7 +19,7 @@ title: Jason Dunn
         <i class="fa-regular fa-envelope"></i>
       </a>
       <a href="assets/dunn_cv.pdf" class="social-icon-btn" title="Curriculum Vitae">
-        <i class="fa-regular fa-file-pdf"></i>
+        <span style="font-weight: bold; font-size: 0.85em; font-family: sans-serif;">CV</span>
       </a>
       <a href="https://scholar.google.com/citations?user=mKzc0Q4AAAAJ" class="social-icon-btn" title="Google Scholar">
         <i class="fa-solid fa-graduation-cap"></i>
