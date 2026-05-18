@@ -39,7 +39,7 @@ title: Research | Jason Dunn
   
 ### Miscellaneous Publications
 
-* **Shipping Disruptions in the Red Sea: Local Shock, Global Impact** with Fernando Leibovici<br>_VOXEU CEPR Column_, 2024 <span style="display: inline-block; margin-left: 10px; vertical-align: middle;"><a href="https://cepr.org/voxeu/columns/shipping-disruptions-red-sea-local-shock-global-impact" target="_blank" rel="noopener noreferrer" class="paper-btn" style="margin-top: 0;">Source</a><a href="assets/voxeu_redsea.pdf" target="_blank" rel="noopener noreferrer" class="paper-btn" style="margin-top: 0; margin-left: 5px;"><i class="fa-solid fa-file-pdf"></i></a></span>
+* **Shipping Disruptions in the Red Sea: Local Shock, Global Impact** with Fernando Leibovici<br>_VOXEU CEPR Column_, 2024 <br><span style="display: inline-block; margin-left: 10px; vertical-align: middle;"><a href="https://cepr.org/voxeu/columns/shipping-disruptions-red-sea-local-shock-global-impact" target="_blank" rel="noopener noreferrer" class="paper-btn" style="margin-top: 0;">Source</a><a href="assets/voxeu_redsea.pdf" target="_blank" rel="noopener noreferrer" class="paper-btn" style="margin-top: 0; margin-left: 5px;"><i class="fa-solid fa-file-pdf"></i></a></span>
 
 * **National Banking Acts of 1863 and 1864** with David Wheelock<br>_Federal Reserve History Essays_, 2022 <span style="display: inline-block; margin-left: 10px; vertical-align: middle;"><a href="https://www.federalreservehistory.org/essays/national-banking-acts" target="_blank" rel="noopener noreferrer" class="paper-btn" style="margin-top: 0;">Source</a><a href="assets/fedhist_bankacts.pdf" target="_blank" rel="noopener noreferrer" class="paper-btn" style="margin-top: 0; margin-left: 5px;"><i class="fa-solid fa-file-pdf"></i></a></span>
 
