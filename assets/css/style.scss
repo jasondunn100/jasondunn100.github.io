@@ -72,7 +72,7 @@ section ul li {
   list-style-type: disc;
 }
 
-/* Tightens spacing and scales down buttons for shorter blog/essay entries */
+/* Tightens spacing for shorter blog/essay entries */
 .tight-list ul li {
   margin-bottom: 18px !important; 
 }
@@ -80,22 +80,22 @@ section ul li {
 /* Makes buttons smaller and vertically centered inside the tight list entries */
 .tight-list .paper-btn {
   padding: 2px 6px !important;  /* Trims the button cushion */
-  font-size: 0.75em !important;  /* Shrinks the font scale */
+  font-size: 0.75em !important;  /* Keeps button text proportional to small button */
   border-radius: 3px;
-  display: inline-flex;         /* Unifies text and standalone icon structures */
+  display: inline-flex;         
   align-items: center;
   justify-content: center;
 }
 
 /* Formats the FontAwesome PDF icon to prevent layout collapse */
 .tight-list .paper-btn i {
-  font-size: 1.1em !important;   /* Enhances visual scale of textless icon buttons */
-  padding: 0 2px;               /* Insures minimum structural width if text is removed */
+  font-size: 1.1em !important;   
+  padding: 0 2px;               
 }
 
-/* Tighter Paper Titles */
-section ul li > strong:first-child, 
-section ul li > b:first-child {
+/* FIXED: Keeps article titles large (1.3em) across both normal and tight lists */
+section ul li strong, 
+section ul li b {
   font-size: 1.3em;
   line-height: 1.1;
   display: inline; 
