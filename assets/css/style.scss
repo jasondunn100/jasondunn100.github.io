@@ -77,23 +77,26 @@ section ul li {
   margin-bottom: 18px !important; 
 }
 
-/* Makes buttons smaller and vertically centered inside the tight list entries */
+/* Makes buttons smaller and perfectly aligned inside tight list entries */
 .tight-list .paper-btn {
-  padding: 2px 6px !important;  /* Trims the button cushion */
-  font-size: 0.75em !important;  /* Keeps button text proportional to small button */
+  padding: 3px 8px !important;  /* Standardized padding for uniformity */
+  font-size: 0.75em !important;  
   border-radius: 3px;
   display: inline-flex;         
-  align-items: center;
+  align-items: center;          /* Centers text and icons vertically on the same plane */
   justify-content: center;
+  height: 18px;                 /* HARD HEIGHT LOCK: forces both buttons to match exactly */
+  box-sizing: content-box;       /* Keeps padding calculation predictable across browsers */
+  vertical-align: middle;       /* Keeps both elements balanced with the publication line */
 }
 
 /* Formats the FontAwesome PDF icon to prevent layout collapse */
 .tight-list .paper-btn i {
-  font-size: 1.1em !important;   
-  padding: 0 2px;               
+  font-size: 1.15em !important;   
+  line-height: 1;               /* Eliminates invisible text-line buffers */
 }
 
-/* FIXED: Keeps article titles large (1.3em) across both normal and tight lists */
+/* Keeps article titles large (1.3em) across both normal and tight lists */
 section ul li strong, 
 section ul li b {
   font-size: 1.3em;
