@@ -35,6 +35,8 @@ title: Research | Jason Dunn
     </details>
   </div>
 
+<div class="tight-list">
+
 ### Miscellaneous Publications
 
 * **Shipping Disruptions in the Red Sea: Local Shock, Global Impact** with Fernando Leibovici<br>_VOXEU CEPR Column_, 2024 <span style="display: inline-block; margin-left: 10px; vertical-align: middle;"><a href="https://cepr.org/voxeu/columns/shipping-disruptions-red-sea-local-shock-global-impact" target="_blank" rel="noopener noreferrer" class="paper-btn" style="margin-top: 0;">Source</a><a href="assets/voxeu_redsea.pdf" target="_blank" rel="noopener noreferrer" class="paper-btn" style="margin-top: 0; margin-left: 5px;"><i class="fa-regular fa-file-pdf"></i> PDF</a></span>
