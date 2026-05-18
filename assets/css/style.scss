@@ -72,9 +72,20 @@ section ul li {
   list-style-type: disc;
 }
 
-/* Tightens spacing for shorter blog/essay entries without affecting working papers */
+/* Tightens spacing and scales down buttons for shorter blog/essay entries */
 .tight-list ul li {
-  margin-bottom: 10px !important; 
+  margin-bottom: 18px !important; 
+}
+
+/* Makes buttons smaller and vertically centered inside the tight list entries */
+.tight-list .paper-btn {
+  padding: 2px 6px !important;  /* Trims the button cushion */
+  font-size: 0.75em !important;  /* Shrinks the font scale */
+  border-radius: 3px;
+}
+
+.tight-list .paper-btn i {
+  font-size: 0.9em !important;   /* Proportions the FontAwesome PDF icon */
 }
 
 /* Tighter Paper Titles */
