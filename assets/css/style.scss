@@ -82,10 +82,15 @@ section ul li {
   padding: 2px 6px !important;  /* Trims the button cushion */
   font-size: 0.75em !important;  /* Shrinks the font scale */
   border-radius: 3px;
+  display: inline-flex;         /* Unifies text and standalone icon structures */
+  align-items: center;
+  justify-content: center;
 }
 
+/* Formats the FontAwesome PDF icon to prevent layout collapse */
 .tight-list .paper-btn i {
-  font-size: 0.9em !important;   /* Proportions the FontAwesome PDF icon */
+  font-size: 1.1em !important;   /* Enhances visual scale of textless icon buttons */
+  padding: 0 2px;               /* Insures minimum structural width if text is removed */
 }
 
 /* Tighter Paper Titles */
