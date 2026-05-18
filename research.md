@@ -39,56 +39,56 @@ title: Research | Jason Dunn
 
 ### Miscellaneous Publications
 
-* **[Shipping Disruptions in the Red Sea: Local Shock, Global Impact](https://cepr.org/voxeu/columns/shipping-disruptions-red-sea-local-shock-global-impact)**<br>_VOXEU CEPR Column_ (with Fernando Leibovici), 2024
+* **[Shipping Disruptions in the Red Sea: Local Shock, Global Impact](https://cepr.org/voxeu/columns/shipping-disruptions-red-sea-local-shock-global-impact)**<br>_VOXEU CEPR Column_, 2024 (with Fernando Leibovici)
 
-* **[National Banking Acts of 1863 and 1864](https://www.federalreservehistory.org/essays/national-banking-acts)**<br>_Federal Reserve History Essays_ (with David Wheelock), 2022
+* **[National Banking Acts of 1863 and 1864](https://www.federalreservehistory.org/essays/national-banking-acts)**<br>_Federal Reserve History Essays_, 2022 (with David Wheelock)
 
 ### Federal Reserve Publications
 
-* **[Has US-China Decoupling Energized American Manufacturing?](https://fredblog.stlouisfed.org/2024/03/has-us-china-decoupling-energized-american-manufacturing/)**<br>_FRED Blog_ (with Fernando Leibovici), 2024
+* **[Has US-China Decoupling Energized American Manufacturing?](https://fredblog.stlouisfed.org/2024/03/has-us-china-decoupling-energized-american-manufacturing/)**<br>_FRED Blog_, 2024 (with Fernando Leibovici)
 
-* **[Shipping Disruptions in the Red Sea: Ripples Across the Globe](https://www.stlouisfed.org/on-the-economy/2024/feb/shipping-disruptions-red-sea-ripples-globe)**<br>_On the Economy Blog_ (with Fernando Leibovici), 2024
+* **[Shipping Disruptions in the Red Sea: Ripples Across the Globe](https://www.stlouisfed.org/on-the-economy/2024/feb/shipping-disruptions-red-sea-ripples-globe)**<br>_On the Economy Blog_, 2024 (with Fernando Leibovici)
 
-* **[Decoupling Where it Matters? US Imports from China in Critical Sectors](https://doi.org/10.20955/es.2024.1)**<br>_Economic Synopses_ (with Fernando Leibovici), 2024
+* **[Decoupling Where it Matters? US Imports from China in Critical Sectors](https://doi.org/10.20955/es.2024.1)**<br>_Economic Synopses_, 2024 (with Fernando Leibovici)
 
-* **[Tracking Monetary Policy’s Effects on Access to Financing](https://fredblog.stlouisfed.org/2023/04/tracking-monetary-policys-effects-on-access-to-financing/)**<br>_FRED Blog_ (with Fernando Leibovici), 2023
+* **[Tracking Monetary Policy’s Effects on Access to Financing](https://fredblog.stlouisfed.org/2023/04/tracking-monetary-policys-effects-on-access-to-financing/)**<br>_FRED Blog_, 2023 (with Fernando Leibovici)
 
-* **[Supply Chain Disruptions and Inventory Dynamics](https://www.stlouisfed.org/on-the-economy/2023/aug/supply-chain-disruptions-inventory-dynamics)**<br>_On the Economy Blog_ (with Fernando Leibovici), 2023
+* **[Supply Chain Disruptions and Inventory Dynamics](https://www.stlouisfed.org/on-the-economy/2023/aug/supply-chain-disruptions-inventory-dynamics)**<br>_On the Economy Blog_, 2023 (with Fernando Leibovici)
 
-* **[How U.S. Import Shipping Costs Vary across Countries and Industries](https://www.stlouisfed.org/on-the-economy/2023/apr/how-us-import-shipping-costs-vary-countries-industries)**<br>_On the Economy Blog_ (with Fernando Leibovici), 2023
+* **[How U.S. Import Shipping Costs Vary across Countries and Industries](https://www.stlouisfed.org/on-the-economy/2023/apr/how-us-import-shipping-costs-vary-countries-industries)**<br>_On the Economy Blog_, 2023 (with Fernando Leibovici)
 
-* **[International Trade Dependence and Inventory Dynamics](https://doi.org/10.20955/es.2023.17)**<br>_Economic Synopses_ (with Fernando Leibovici), 2023
+* **[International Trade Dependence and Inventory Dynamics](https://doi.org/10.20955/es.2023.17)**<br>_Economic Synopses_, 2023 (with Fernando Leibovici)
 
-* **[US Barriers to International Trade of Goods: Tariffs and Non-Tariff Measures](https://doi.org/10.20955/es.2023.9)**<br>_Economic Synopses_ (with Fernando Leibovici), 2023
+* **[US Barriers to International Trade of Goods: Tariffs and Non-Tariff Measures](https://doi.org/10.20955/es.2023.9)**<br>_Economic Synopses_, 2023 (with Fernando Leibovici)
 
-* **[Systemic Financial Risks, Macroprudential Tools and Monetary Policy](https://www.stlouisfed.org/publications/regional-economist/2023/july/systemic-financial-risks-macroprudential-tools-monetary-policy)**<br>_The Regional Economist_ (with Christopher J. Neely), 2023
+* **[Systemic Financial Risks, Macroprudential Tools and Monetary Policy](https://www.stlouisfed.org/publications/regional-economist/2023/july/systemic-financial-risks-macroprudential-tools-monetary-policy)**<br>_The Regional Economist_, 2023 (with Christopher J. Neely)
 
-* **[Reviewing the Impact of Energy Sanctions on Russia](https://www.stlouisfed.org/on-the-economy/2023/feb/reviewing-impact-energy-sanctions-russia)**<br>_On the Economy Blog_ (with Christopher J. Neely), 2023
+* **[Reviewing the Impact of Energy Sanctions on Russia](https://www.stlouisfed.org/on-the-economy/2023/feb/reviewing-impact-energy-sanctions-russia)**<br>_On the Economy Blog_, 2023 (with Christopher J. Neely)
 
-* **[The Increased Tradability of Natural Gas](https://doi.org/10.20955/es.2022.32)**<br>_Economic Synopses_ (with Fernando Leibovici), 2022
+* **[The Increased Tradability of Natural Gas](https://doi.org/10.20955/es.2022.32)**<br>_Economic Synopses_, 2022 (with Fernando Leibovici)
 
-* **[U.S. Trade of Semiconductors: Cross-Country Patterns and Historical Dynamics](https://doi.org/10.20955/es.2022.31)**<br>_Economic Synopses_ (with Fernando Leibovici), 2022
+* **[U.S. Trade of Semiconductors: Cross-Country Patterns and Historical Dynamics](https://doi.org/10.20955/es.2022.31)**<br>_Economic Synopses_, 2022 (with Fernando Leibovici)
 
-* **[International Shipping Costs: Determinants and Outlook](https://www.stlouisfed.org/publications/regional-economist/2022/nov/international-shipping-costs-determinants-outlook)**<br>_The Regional Economist_ (with Fernando Leibovici), 2022
+* **[International Shipping Costs: Determinants and Outlook](https://www.stlouisfed.org/publications/regional-economist/2022/nov/international-shipping-costs-determinants-outlook)**<br>_The Regional Economist_, 2022 (with Fernando Leibovici)
 
-* **[A Shutoff of Russian Natural Gas](https://doi.org/10.20955/es.2022.29)**<br>_Economic Synopses_ (with Christopher J. Neely), 2022
+* **[A Shutoff of Russian Natural Gas](https://doi.org/10.20955/es.2022.29)**<br>_Economic Synopses_, 2022 (with Christopher J. Neely)
 
-* **[What’s been driving the rise in auto prices since COVID?](https://fredblog.stlouisfed.org/2022/10/whats-been-driving-the-rise-in-auto-prices-since-covid/)**<br>_FRED Blog_ (with Fernando Leibovici), 2022
+* **[What’s been driving the rise in auto prices since COVID?](https://fredblog.stlouisfed.org/2022/10/whats-been-driving-the-rise-in-auto-prices-since-covid/)**<br>_FRED Blog_, 2022 (with Fernando Leibovici)
 
 * **[International Supply Chains: The Good, the Bad and the COVID-19 Pandemic](https://www.stlouisfed.org/open-vault/2022/oct/international-supply-chains-and-covid-19-pandemic)**<br>_Open Vault Blog_, 2022
 
-* **[The Impact of Inflation’s Wealth Transfer Effect](https://www.stlouisfed.org/publications/regional-economist/2022/aug/impact-inflation-wealth-transfer-effect)**<br>_The Regional Economist_ (with YiLi Chien), 2022
+* **[The Impact of Inflation’s Wealth Transfer Effect](https://www.stlouisfed.org/publications/regional-economist/2022/aug/impact-inflation-wealth-transfer-effect)**<br>_The Regional Economist_, 2022 (with YiLi Chien)
 
-* **[Gauging spending on gasoline and other energy goods](https://fredblog.stlouisfed.org/2022/05/gauging-spending-on-gasoline-and-other-energy-goods/)**<br>_FRED Blog_ (with David Wheelock), 2022
+* **[Gauging spending on gasoline and other energy goods](https://fredblog.stlouisfed.org/2022/05/gauging-spending-on-gasoline-and-other-energy-goods/)**<br>_FRED Blog_, 2022 (with David Wheelock)
 
-* **[Trade Linkages in the Shadow of the Russia-Ukraine War](https://www.stlouisfed.org/on-the-economy/2022/mar/trade-linkages-shadow-russia-ukraine-war)**<br>_On the Economy Blog_ (with Fernando Leibovici), 2022
+* **[Trade Linkages in the Shadow of the Russia-Ukraine War](https://www.stlouisfed.org/on-the-economy/2022/mar/trade-linkages-shadow-russia-ukraine-war)**<br>_On the Economy Blog_, 2022 (with Fernando Leibovici)
 
-* **[Cross-country dynamics during COVID-19](https://fredblog.stlouisfed.org/2022/02/cross-country-dynamics-during-covid-19/)**<br>_FRED Blog_ (with Fernando Leibovici), 2022
+* **[Cross-country dynamics during COVID-19](https://fredblog.stlouisfed.org/2022/02/cross-country-dynamics-during-covid-19/)**<br>_FRED Blog_, 2022 (with Fernando Leibovici)
 
-* **[The Dynamics of International Shipping Supply](https://www.stlouisfed.org/on-the-economy/2022/feb/dynamics-international-shipping-supply)**<br>_On the Economy Blog_ (with Fernando Leibovici), 2022
+* **[The Dynamics of International Shipping Supply](https://www.stlouisfed.org/on-the-economy/2022/feb/dynamics-international-shipping-supply)**<br>_On the Economy Blog_, 2022 (with Fernando Leibovici)
 
-* **[The Dynamics of International Shipping Costs](https://www.stlouisfed.org/on-the-economy/2022/january/dynamics-international-shipping-costs)**<br>_On the Economy Blog_ (with Fernando Leibovici), 2022
+* **[The Dynamics of International Shipping Costs](https://www.stlouisfed.org/on-the-economy/2022/january/dynamics-international-shipping-costs)**<br>_On the Economy Blog_, 2022 (with Fernando Leibovici)
 
-* **[Supply Chain Bottlenecks and Inflation: The Role of Semiconductors](https://doi.org/10.20955/es.2021.28)**<br>_Economic Synopses_ (with Fernando Leibovici), 2021
+* **[Supply Chain Bottlenecks and Inflation: The Role of Semiconductors](https://doi.org/10.20955/es.2021.28)**<br>_Economic Synopses_, 2021 (with Fernando Leibovici)
 
 </div>
