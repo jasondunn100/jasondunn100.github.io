@@ -18,11 +18,7 @@ title: Teaching | Jason Dunn
         Course Description
       </summary>
       <div style="margin-top: 5px; font-style: italic; font-size: 0.95em;">
-        This course provides an introduction to current economic issues and to basic macroeconomic principles and methods. The economist John Maynard Keynes wrote that "the ideas of economists and political philosophers, both when they are right and when they are wrong, are more powerful than is commonly understood." Economics is not primarily a set of answers, but rather a method of reasoning. By the end of the semester, you will be able to use the analysis practiced in the course to form your own judgments about many of the major economic problems faced by the United States and other countries.
-        <br><br>
-        Macroeconomics is the study of the economy as a whole. We start with the three key macro variables: GDP, inflation and unemployment. We go on to study economic growth, financial markets, business cycles, and the impact government can have on the economy through monetary and fiscal policy. Along the way, we will cover such topics as interest rates, investment, the exchange rate, and international trade.
-        <br><br>
-        Sections are designed to review material presented in lecture, to go over example problems, and to prepare you for exams.
+        The second semester of a standard two-semester sequence for those considering further work in management or economics. National economic performance; the problems of recession, unemployment, and inflation; money creation, government spending, and taxation; economic policies for full employment and price stability; and international trade and payments.
       </div>
     </details>
   </div>
