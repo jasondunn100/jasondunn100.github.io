@@ -62,7 +62,7 @@ h3 {
   color: white !important;
 }
 
-/* 5. Research List & Alignment */
+/* 5. Research & Teaching List Alignment */
 section ul {
   margin-left: 20px;
 }
@@ -72,9 +72,14 @@ section ul li {
   list-style-type: disc;
 }
 
-/* Tightens spacing for shorter blog/essay entries */
+/* Tightens spacing for shorter blog/essay entries and course listings */
 .tight-list ul li {
   margin-bottom: 10px !important; 
+}
+
+/* Clean up the structural indentation for tight list structures */
+.tight-list ul {
+  padding-left: 15px; 
 }
 
 /* Makes buttons smaller and perfectly aligned inside tight list entries */
@@ -87,7 +92,7 @@ section ul li {
   justify-content: center;
   height: 18px;                 /* HARD HEIGHT LOCK: forces both buttons to match exactly */
   box-sizing: content-box;       /* Keeps padding calculation predictable across browsers */
-  vertical-align: middle;       /* Keeps both elements balanced with the publication line */
+  vertical-align: middle;       /* Keeps both elements balanced with the text line */
 }
 
 /* Formats the FontAwesome PDF icon to prevent layout collapse */
@@ -96,7 +101,7 @@ section ul li {
   line-height: 1;               /* Eliminates invisible text-line buffers */
 }
 
-/* Keeps article titles large (1.3em) across both normal and tight lists */
+/* Keeps article and course titles large (1.3em) across all markdown environments */
 section ul li strong, 
 section ul li b {
   font-size: 1.3em;
