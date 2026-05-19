@@ -68,5 +68,7 @@ title: Teaching | Jason Dunn
 </div>
 
 ### Teaching Interests
-* **Primary Fields:** Economic History, Quantitative Methods in Economics
+<div style="line-height: 1.2;">
+* **Primary Fields:** Economic History, Quantitative Methods in Economics <span style="display:block; margin-bottom: 2px;"></span>
 * **Secondary Fields:** Macroeconomics
+</div>
