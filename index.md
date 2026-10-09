@@ -77,6 +77,20 @@ title: Jason Dunn
     </details>
   </div>
 
+* **Depressed in School: The Great Depression, Educational Attainment, and Productivity Growth**
+  <div style="margin-top: 5px;">
+    <a href="assets/depressed.pdf" target="_blank" class="paper-btn">Paper</a>
+    <a href="assets/depressed_slides.pdf" target="_blank" class="paper-btn">Slides</a>
+    <details style="margin-top: 4px;">
+      <summary style="cursor: pointer; color: #4A148C; font-weight: bold;">
+        Abstract
+      </summary>
+      <div style="margin-top: 5px; font-style: italic; font-size: 0.95em;">
+        While the Great Depression caused severe immediate declines in employment and output, this paper studies a positive additional consequence: increased human capital accumulation. To identify this, I construct a granular shift-share instrument for county exposure to youth unemployment, using 8 sectors, 47 manufacturing industries, and 8 demographic subgroups. Counties more exposed to the Depression saw greater increases in high school attainment rates. By 1940, this shock-induced education sorted these cohorts into higher-skilled occupations. Harder-hit counties experienced greater increases in the education of their workforce and labor productivity. These findings suggest that although highly exposed counties were negatively affected from the initial shock of the Depression, it induced educational attainment and put them on the trajectory for higher growth in the long run.
+      </div>
+    </details>
+  </div>
+
 <script>
   document.addEventListener("DOMContentLoaded", function() {
     const links = document.querySelectorAll("a");
