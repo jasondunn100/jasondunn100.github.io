@@ -11,7 +11,7 @@ title: Jason Dunn
   
   <!-- Left Column: Picture + Horizontal Social Row -->
   <div style="width: 300px; flex-shrink: 0; display: flex; flex-direction: column; gap: 10px;">
-    <img src="assets/img/prof_pic.jpg" style="width: 100%; border-radius: 8px;">
+    <img src="assets/img/prof_pic.jpg" width="900" height="900" alt="Jason Dunn" fetchpriority="high" decoding="async" style="width: 100%; height: auto; border-radius: 8px;">
     
     <!-- Row of 6 Square Icon Buttons -->
     <div style="display: flex; justify-content: space-between; gap: 4px;">
