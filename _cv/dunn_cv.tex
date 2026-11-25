@@ -1,0 +1,104 @@
+\documentclass[11pt]{article}
+\usepackage[letterpaper,margin=0.7in]{geometry}
+\usepackage{fontspec}
+\setmainfont{Times New Roman}
+\usepackage{array}
+\usepackage{xcolor}
+\usepackage[hidelinks=false]{hyperref}
+\hypersetup{colorlinks=true,urlcolor=blue,linkcolor=blue}
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+\urlstyle{same}
+\raggedbottom
+
+\newcolumntype{L}{>{\raggedright\arraybackslash}p{1.38in}}
+\newcolumntype{R}{>{\raggedright\arraybackslash}p{\dimexpr\textwidth-1.38in-10pt\relax}}
+
+\newcommand{\cvrow}[2]{%
+  \vspace{8pt}%
+  \noindent
+  \begin{tabular}{@{}L@{\hspace{10pt}}R@{}}
+    {\bfseries #1} & #2
+  \end{tabular}\par
+}
+\newcommand{\gap}{\par\vspace{4pt}}
+\newcommand{\entry}[1]{\par\vspace{5pt}#1}
+
+\begin{document}
+
+\begin{center}
+{\LARGE\bfseries Jason Dunn}\\[4pt]
+Department of Economics, Boston University\\
+270 Bay State Road, Boston, MA 02215\\[2pt]
+\href{mailto:jtdunn@bu.edu}{jtdunn@bu.edu} \quad \href{https://jasontdunn.com}{jasontdunn.com}
+\end{center}
+
+\cvrow{Education}{%
+Ph.D., Economics, Boston University \hfill Expected Summer 2029\par
+Advisor: James Feigenbaum
+\gap
+B.A., Economics and History (with honors); Mathematics minor \hfill May 2021\par
+Colby College, Waterville, ME
+\gap
+Visiting Student, St.\ Catherine's College, University of Oxford \hfill 2019--2020
+}
+
+\cvrow{Fields}{%
+Economic History, Labor, Migration, Education
+}
+
+\cvrow{Working Papers}{%
+``\href{https://jasontdunn.com/assets/mining.pdf}{Ghost Towns and Big Cities: Historical Mining Districts and Economic Activity in the American West},'' (with James Siodla). Forthcoming, \textit{Journal of Economic History}. March 2024.
+\entry{``\href{https://jasontdunn.com/assets/shipping.pdf}{Navigating the Waves of Global Shipping: Drivers and Aggregate Implications},'' (with Fernando Leibovici). Revise \& Resubmit, \textit{American Economic Review}. Federal Reserve Bank of St.\ Louis Working Paper 2023-002.}
+\entry{``\href{https://jasontdunn.com/assets/depressed.pdf}{Depressed in School: The Great Depression, Educational Attainment, and Productivity Growth}.'' October 2026.}
+\entry{``\href{https://jasontdunn.com/assets/spatialwages.pdf}{Spatial Wage Estimates for 19th Century US Workers}.'' November 2026.}
+}
+
+\cvrow{Presentations}{%
+2026 Southern Economic Association Annual Meeting, Houston (presenter)\par
+2026 Harvard University Graduate Workshop in Economic History, Cambridge (presenter)\par
+2024 NBER International Trade and Investment Conference, Cambridge (coauthor)\par
+2022 Social Science History Association Conference, Chicago (presenter)\par
+2022 ICPSR Workshop on Spatial Econometrics (virtual)\par
+2022 Western Economic Association International Conference, Portland (coauthor)\par
+2021 Urban Economics Association Conference (virtual, coauthor)
+}
+
+\cvrow{Research Experience}{%
+Federal Reserve Bank of St.\ Louis \hfill Summer 2021--Summer 2024\par
+Senior Research Associate\par
+Research with Bank economists on policy work and academic projects; econometric analysis of large datasets; regional economic reporting, including the Beige Book.
+\gap
+Colby College \hfill Spring 2019--Spring 2021\par
+Independent research with James Siodla. Honors thesis on economic development in the nineteenth-century US West (Faculty Prize). Seminar paper on college education by field of study and cross-country wealth.
+}
+
+\cvrow{Teaching Experience}{%
+Introduction to Macroeconomics, Boston University \hfill Fall 2025--Present\par
+Teaching assistant for three weekly discussion sections.
+\gap
+Microeconomic and Macroeconomic Theory, Colby College \hfill Fall 2020--Spring 2021\par
+Teaching assistant.
+\gap
+Calculus, Colby College \hfill Fall 2018--Spring 2019\par
+Teaching assistant.
+}
+
+\cvrow{Refereeing}{%
+\textit{Journal of Economic History}
+}
+
+\cvrow{Honors and Awards}{%
+Faculty Prize for High Scholarly Attainment in Economics, Colby College \hfill 2021\par
+Christian A.\ Johnson Award for teaching, Colby Economics Department \hfill 2021\par
+Magna Cum Laude; Phi Beta Kappa; Honors in Economics; Honors in History \hfill 2021\par
+Dean's List, Colby College \hfill Fall 2017--Spring 2021
+}
+
+\cvrow{Skills}{%
+Stata, MATLAB, Python, R, Julia, GIS, SQL, Dynare, LaTeX\par
+Datasets: full-count census, IPUMS NHGIS, CPS, ACS, QCEW, UN Comtrade, US trade census, BEA input--output tables, HSUS
+}
+
+\end{document}
