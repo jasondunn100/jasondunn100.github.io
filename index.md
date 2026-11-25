@@ -91,6 +91,20 @@ title: Jason Dunn
     </details>
   </div>
 
+* **Spatial Wage Estimates for 19th Century US Workers**
+  <div style="margin-top: 5px;">
+    <a href="assets/spatialwages.pdf" target="_blank" class="paper-btn">Paper</a>
+    <a href="assets/spatialwages_slides.pdf" target="_blank" class="paper-btn">Slides</a>
+    <details style="margin-top: 4px;">
+      <summary style="cursor: pointer; color: #4A148C; font-weight: bold;">
+        Abstract
+      </summary>
+      <div style="margin-top: 5px; font-style: italic; font-size: 0.95em;">
+        Measuring socioeconomic status (SES) throughout US history is challenging due to the (i) lack of direct income data and (ii) limitations of occupation scores, which ignore geographic and demographic variation. While recent literature has improved upon these scores by accounting for education, wealth, and other SES factors, they remain coarse or are limited by incomplete reporting thresholds. This paper's core contribution is developing a method for tightly estimating individual manufacturing wages from 1850 to 1880. I supplement these with broader wages on non-manufacturing occupations for greater coverage of the 19th century workforce. I then set up a procedure for benchmarking these wage estimates and other SES measures against external SES sources. I find the wage data and a composite index of wages, literacy and wealth perform at or above pre-existing SES measures. This new SES measure implies lower levels of economic mobility and greater increases in inequality over the course of the 19th century.
+      </div>
+    </details>
+  </div>
+
 <script>
   document.addEventListener("DOMContentLoaded", function() {
     const links = document.querySelectorAll("a");
